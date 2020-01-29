@@ -36,11 +36,11 @@ Programming is hard but with practice, anyone can learn it. Novice programmers n
 * You can have a discussion board for each problem. Students can also create a post-specific(think about StackOverflow q&a style).
 #### 11. Is the quiz timed? Are there any limits on the quiz? 
 * Timed/not timed - both are okay.
-#### 2. Should student accounts be timed out and required to log in again after a period of inactivity?
+#### 12. Should student accounts be timed out and required to log in again after a period of inactivity?
 * You can have a 'remember me' option. If the user doesn't check out remember me, then log out after a certain period of inactivity.
-#### 1. Should users be given a way to show their understanding of a language before starting a lessor, for example a short diagnostics quiz to gage where they stand and where they should start?
+#### 13. Should users be given a way to show their understanding of a language before starting a lessor, for example a short diagnostics quiz to gage where they stand and where they should start?
 * You can have a starter diagnostics quiz. A good idea. But I would prefer everyone starts the lesson in the same way.
-#### 2. Do you want some sort of website that goes with that app? 
+#### 14. Do you want some sort of website that goes with that app? 
 * Not required.
 
 
